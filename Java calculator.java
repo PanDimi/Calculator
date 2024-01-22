@@ -1,5 +1,5 @@
 import  java.util.Scanner;
-public class Calculater {
+public class Calculator {
     public static void main (String[]args){
         Scanner keyboard=new Scanner(System.in);
         System.out.print("Give first number: ");
